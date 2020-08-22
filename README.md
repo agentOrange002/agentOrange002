@@ -51,8 +51,8 @@
 ### 📕 Current Projects
 
 <!-- Projects:START -->
-- [Microinteractions: Password Validation Animation](https://distracted-einstein-e83f94.netlify.app/)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://distracted-einstein-e83f94.netlify.app/)
+- [ITS System Front End - ReactJS ](https://distracted-einstein-e83f94.netlify.app/)
+- [ITS System Back End - Spring Boot API Services](https://distracted-einstein-e83f94.netlify.app/)
 <!-- Projects-LIST:END -->
 
 ➡️ [more projects...](https://distracted-einstein-e83f94.netlify.app/)
