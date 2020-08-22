@@ -4,14 +4,13 @@
 
 ## I'm a Home Buddy, Developer, and Gamer!
 
-- 🔭 I’m currently working as a Freelance FullStack Developer [VS Code Course][website]!
+- 🔭 I’m currently working as a Freelance FullStack Developer!
 - 🌱 I’m currently learning React and Spring Boot and I'm really into it 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to any opportunities.
+- 🥅 2020 Goals: To get decent jobs.
+- ⚡ Fun fact: I love to play Dota 2 / reading online tutorials.
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
 
 ### Connect with me:
 
