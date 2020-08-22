@@ -24,7 +24,27 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>][website]
+
 [<img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg"/>][website]
+
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg"/>][website]
+
+[<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg"/>][website]
+
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/>][website]
+
+[<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg"/>][website]
+
+[<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"/>][website]
+
+[<img align="left" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>][website]
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/>][website]
+
+[<img align="left" alt="Maven" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachemaven.svg"/>][website]
+
+
 
 <br />
 <br />
