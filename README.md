@@ -28,7 +28,7 @@
 
 [<img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg"/>][website]
 
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg"/>][website]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>][website]
 
 [<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg"/>][website]
 
