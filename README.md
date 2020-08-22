@@ -99,3 +99,7 @@
 [youtube]: https://distracted-einstein-e83f94.netlify.app/
 [instagram]: https://distracted-einstein-e83f94.netlify.app/
 [linkedin]: https://distracted-einstein-e83f94.netlify.app/
+[webdevplaylist]: https://distracted-einstein-e83f94.netlify.app/
+[jsplaylist]: https://distracted-einstein-e83f94.netlify.app/
+[cssplaylist]: https://distracted-einstein-e83f94.netlify.app/
+[reactplaylist]: https://distracted-einstein-e83f94.netlify.app/
