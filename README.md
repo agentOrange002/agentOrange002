@@ -4,7 +4,7 @@
 
 ## I'm a Home Buddy, Developer, and Gamer!
 
-- 🔭 I’m currently working as a Freelance FullStack Developer!
+- 🔭 I’m currently working as a Freelance Java Developer!
 - 🌱 I’m currently learning React and Spring Boot and I'm really into it 🤣
 - 👯 I’m looking to any opportunities.
 - 🥅 2020 Goals: To get decent jobs.
@@ -56,8 +56,8 @@
 ### 📕 Current Projects
 
 <!-- Projects:START -->
-- [ITS System Front End - ReactJS ](https://distracted-einstein-e83f94.netlify.app/)
-- [ITS System Back End - Spring Boot REST API Services](https://distracted-einstein-e83f94.netlify.app/)
+- [Issue Tracking System Front End - ReactJS ](https://distracted-einstein-e83f94.netlify.app/)
+- [Issue Tracking System Back End - Spring Boot REST API Services](https://distracted-einstein-e83f94.netlify.app/)
 <!-- Projects-LIST:END -->
 
 ➡️ [more projects...](https://distracted-einstein-e83f94.netlify.app/)
