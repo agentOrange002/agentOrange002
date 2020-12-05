@@ -32,6 +32,8 @@
 
 [<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg"/>][website]
 
+[<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg"/>][website]
+
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/>][website]
 
 [<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg"/>][website]
@@ -43,6 +45,8 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/>][website]
 
 [<img align="left" alt="Maven" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachemaven.svg"/>][website]
+
+[<img align="left" alt="Gradle" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg"/>][website]
 
 
 
@@ -56,11 +60,12 @@
 ### 📕 Current Projects
 
 <!-- Projects:START -->
-- [Issue Tracking System Front End - ReactJS ](https://distracted-einstein-e83f94.netlify.app/)
-- [Issue Tracking System Back End - Spring Boot REST API Services](https://distracted-einstein-e83f94.netlify.app/)
+- [Issue Tracking System REST API Services - Gradle PostgreSQL](https://github.com/agentOrange002/its-gradle)
+- [Issue Tracking System Front End - ReactJS ](https://github.com/agentOrange002/itsystem)
+- [Issue Tracking System Back End - Spring Boot REST API Services](https://github.com/agentOrange002/jimtracker)
 <!-- Projects-LIST:END -->
 
-➡️ [more projects...](https://distracted-einstein-e83f94.netlify.app/)
+➡️ [more projects...](https://github.com/agentOrange002?tab=repositories)
 
 ---
 
